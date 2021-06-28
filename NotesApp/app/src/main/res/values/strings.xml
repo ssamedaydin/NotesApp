@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NOTLA</string>
+    <string name="my_notes">My Notes</string>
+    <string name="notlar_m">Notlarım</string>
+    <string name="notlariniara">Notlarını Ara</string>
+    <string name="baslik_yok">Başlık Yok</string>
+    <string name="not_baslik">Not Başlık</string>
+    <string name="not_baslikk">Not Başlığı</string>
+    <string name="alt_baslik">Alt Başlık</string>
+    <string name="notunuzu_giriniz">Notunuzu giriniz...</string>
+    <string name="miscellaneoous">Miscellaneoous</string>
+    <string name="renk_sec">Renk Seç</string>
+    <string name="resim_ekle">Resim Ekle</string>
+    <string name="url_ekle">Url Ekle</string>
+    <string name="url_gir">Url Gir</string>
+    <string name="url_girin">URL Girin</string>
+    <string name="ekle">EKLE</string>
+    <string name="iptal">İPTAL</string>
+    <string name="cancel_dialog">İPTAL</string>
+</resources>
